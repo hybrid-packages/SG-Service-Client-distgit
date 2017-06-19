@@ -28,10 +28,10 @@ BuildRequires:    python-d2to1
 Requires:         python-babel
 Requires:         python-iso8601
 Requires:         python-jsonschema
-Requires:         python2-keystoneauth1 >= 2.1.0
-Requires:         python2-oslo-i18n >= 2.1.0
-Requires:         python2-oslo-serialization >= 2.1.0
-Requires:         python2-oslo-utils >= 3.4.0
+Requires:         python-keystoneauth1 >= 2.1.0
+Requires:         python-oslo-i18n >= 2.1.0
+Requires:         python-oslo-serialization >= 2.1.0
+Requires:         python-oslo-utils >= 3.4.0
 Requires:         python-prettytable
 Requires:         python-pbr
 Requires:         python-requests
